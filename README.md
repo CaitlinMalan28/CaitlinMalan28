@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Caitlin
 
-<!--
-**CaitlinMalan28/CaitlinMalan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Third-year ICT Application Dev student at CPUT  
+💻 I write Java  
+🛠️ Currently building: a Smart Learning System and a Pet Adoption App  
+🌱 Learning: Spring Boot, APIs, and sustainable tech  
+📫 Reach me: [contact me](mailto:230426271@mycput.ac.za)  
+🔗 Portfolio: [Check out my digital portfolio](https://github.com/CaitlinMalan28)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaitlinMalan28&show_icons=true&theme=radical)
+
+---
+
+> *"Writing code that heals like poetry. Pushing builds that break limits."* – me
