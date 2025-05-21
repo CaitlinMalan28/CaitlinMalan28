@@ -4,8 +4,8 @@
 💻 I write Java  
 🛠️ Currently building: a Smart Learning System and a Pet Adoption App  
 🌱 Learning: Spring Boot, APIs, and sustainable tech  
-📫 Reach me: [contact me](mailto:230426271@mycput.ac.za)  
-🔗 Portfolio: [Check out my digital portfolio](https://github.com/CaitlinMalan28)
+📫 Reach me: [Contact Me](mailto:230426271@mycput.ac.za)  
+<!--🔗 Portfolio: [Check out my digital portfolio](https://github.com/CaitlinMalan28)-->
 
 ---
 
