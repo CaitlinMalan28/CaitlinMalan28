@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Dev Tools I Use
+### 🛠️ Tools I Use
 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
