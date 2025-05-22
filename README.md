@@ -41,8 +41,6 @@
 ## Career Counselling
 
 ### Evidence
-- [ ] Add scanned notes, a summary PDF, or a screenshot of your session.
-- [ ] Optional: Include a photo or a link if it was online.
 
 ### Reflection – STAR Technique
 - **S –** 
@@ -55,9 +53,6 @@
 ## Skills and Interests
 
 ### Evidence
-- [ ] Upload a skills assessment result.
-- [ ] Screenshots of surveys or any tests you took.
-- [ ] A short list of your top skills & interests from the training.
 
 ### Reflection – STAR Technique
 - **S –** 
@@ -70,8 +65,6 @@
 ## Personality Assessment
 
 ### Evidence
-- [ ] Include MBTI, DISC, or Enneagram results.
-- [ ] Screenshot or a link to the assessment you took.
 
 ### Reflection – STAR Technique
 - **S –** 
@@ -84,8 +77,6 @@
 ## Create a CV
 
 ### Evidence
-- [ ] Link to your Markdown CV (bonus points if styled like a dev resume).
-- [ ] PDF version or a screenshot from LinkedIn/Canva.
 
 ### Reflection – STAR Technique
 - **S –** 
@@ -98,8 +89,6 @@
 ## CV Submission
 
 ### Evidence
-- [ ] Screenshot of your submission (e.g., internship portal, email sent).
-- [ ] Confirmation message or feedback received.
 
 ### Reflection – STAR Technique
 - **S –** 
