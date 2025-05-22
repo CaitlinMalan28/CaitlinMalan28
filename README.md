@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Caitlin
 
-🧠 Third-year ICT Application Dev student at CPUT  
-💻 Always ready to learn
-🛠️ Currently building: A Smart Learning System and Online Car Auction Web Applications
-🌱 Learning: Spring Boot, APIs, and sustainable tech  
-📫 Reach me: [Contact Me](mailto:230426271@mycput.ac.za)  
+- 🧠 Third-year ICT Application Dev student at CPUT  
+- 💻 Always ready to learn
+- 🛠️ Currently building: A Smart Learning System and Online Car Auction Web Applications
+- 🌱 Learning: Spring Boot, APIs, and sustainable tech  
+- 📫 Reach me: [Contact Me](mailto:230426271@mycput.ac.za)  
 
 ---
 
