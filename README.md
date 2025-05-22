@@ -37,50 +37,50 @@
 </p>
 
 ---
-Career Counselling
-Evidence
+##Career Counselling
+###Evidence
 
-Reflection: Star Technique
-•	S –
-•	T –
-•	A –
-•	R -
+###Reflection: Star Technique
+*•	S –
+*•	T –
+*•	A –
+*•	R -
 ---
-Skills And Interests
-Evidence
+##Skills And Interests
+###Evidence
 
-Reflection: Star Technique
-•	S –
-•	T –
-•	A –
-•	R -
+###Reflection: Star Technique
+*•	S –
+*•	T –
+*•	A –
+*•	R -
 ---
-Personality Assessment
-Evidence
+##Personality Assessment
+###Evidence
 
-Reflection: Star Technique
-•	S –
-•	T –
-•	A –
-•	R -
+###Reflection: Star Technique
+*•	S –
+*•	T –
+*•	A –
+*•	R -
 ---
-Create A CV
-Evidence
+##Create A CV
+###Evidence
 
-Reflection: Star Technique
-•	S –
-•	T –
-•	A –
-•	R -
+###Reflection: Star Technique
+*•	S –
+*•	T –
+*•	A –
+*•	R -
 ---
-CV Submission
-Evidence
+##CV Submission
+###Evidence
 
-Reflection: Star Technique
-•	S –
-•	T –
-•	A –
-•	R -
+###Reflection: Star Technique
+*•	S –
+*•	T –
+*•	A –
+*•	R -
 ---
 
 <!-- *"Writing code that heals like poetry. Pushing builds that break limits."* – me-->
