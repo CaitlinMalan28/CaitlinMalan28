@@ -8,7 +8,7 @@
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white&style=for-the-badge)
@@ -16,9 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
----
-
-### 🛠️ Tools I Use
+### 🛠️ Tools I Use:
 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
