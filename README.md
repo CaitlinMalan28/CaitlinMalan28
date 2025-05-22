@@ -37,50 +37,77 @@
 </p>
 
 ---
-##Career Counselling
-###Evidence
 
-###Reflection: Star Technique
-*•	S –
-*•	T –
-*•	A –
-*•	R -
----
-##Skills And Interests
-###Evidence
+## 1. Career Counselling
 
-###Reflection: Star Technique
-*•	S –
-*•	T –
-*•	A –
-*•	R -
----
-##Personality Assessment
-###Evidence
+### 📎 Evidence
+- [ ] Add scanned notes, a summary PDF, or a screenshot of your session.
+- [ ] Optional: Include a photo or a link if it was online.
 
-###Reflection: Star Technique
-*•	S –
-*•	T –
-*•	A –
-*•	R -
----
-##Create A CV
-###Evidence
+### ✍️ Reflection – STAR Technique
+- **S –** 
+- **T –** 
+- **A –** 
+- **R –** 
 
-###Reflection: Star Technique
-*•	S –
-*•	T –
-*•	A –
-*•	R -
 ---
-##CV Submission
-###Evidence
 
-###Reflection: Star Technique
-*•	S –
-*•	T –
-*•	A –
-*•	R -
+## 2. Skills and Interests
+
+### 📎 Evidence
+- [ ] Upload a skills assessment result.
+- [ ] Screenshots of surveys or any tests you took.
+- [ ] A short list of your top skills & interests from the training.
+
+### ✍️ Reflection – STAR Technique
+- **S –** 
+- **T –** 
+- **A –** 
+- **R –** 
+
 ---
+
+## 3. Personality Assessment
+
+### 📎 Evidence
+- [ ] Include MBTI, DISC, or Enneagram results.
+- [ ] Screenshot or a link to the assessment you took.
+
+### ✍️ Reflection – STAR Technique
+- **S –** 
+- **T –** 
+- **A –** 
+- **R –** 
+
+---
+
+## 4. Create a CV
+
+### 📎 Evidence
+- [ ] Link to your Markdown CV (bonus points if styled like a dev resume).
+- [ ] PDF version or a screenshot from LinkedIn/Canva.
+
+### ✍️ Reflection – STAR Technique
+- **S –** 
+- **T –** 
+- **A –** 
+- **R –** 
+
+---
+
+## 5. CV Submission
+
+### 📎 Evidence
+- [ ] Screenshot of your submission (e.g., internship portal, email sent).
+- [ ] Confirmation message or feedback received.
+
+### ✍️ Reflection – STAR Technique
+- **S –** 
+- **T –** 
+- **A –** 
+- **R –** 
+
+---
+
 
 <!-- *"Writing code that heals like poetry. Pushing builds that break limits."* – me-->
