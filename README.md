@@ -36,7 +36,51 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CaitlinMalan28&show_icons=true&theme=radical" alt="Caitlin's GitHub Stats" />
 </p>
 
+---
+Career Counselling
+Evidence
 
+Reflection: Star Technique
+•	S –
+•	T –
+•	A –
+•	R -
+---
+Skills And Interests
+Evidence
+
+Reflection: Star Technique
+•	S –
+•	T –
+•	A –
+•	R -
+---
+Personality Assessment
+Evidence
+
+Reflection: Star Technique
+•	S –
+•	T –
+•	A –
+•	R -
+---
+Create A CV
+Evidence
+
+Reflection: Star Technique
+•	S –
+•	T –
+•	A –
+•	R -
+---
+CV Submission
+Evidence
+
+Reflection: Star Technique
+•	S –
+•	T –
+•	A –
+•	R -
 ---
 
 <!-- *"Writing code that heals like poetry. Pushing builds that break limits."* – me-->
