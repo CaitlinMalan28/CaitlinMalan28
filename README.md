@@ -91,7 +91,7 @@
 
 ### Evidence
 
-![image](https://github.com/user-attachments/assets/b3770a44-3311-4a96-96e6-df4fe9c4713d)
+![image](https://github.com/user-attachments/assets/6543ac82-fa98-4aeb-9366-e6dc57ddf22c)
 
 ### Reflection
 - **S – I was on a blank CV, and the challenge was having to gather all the information. The part that I knew put me at a bit of a disadvantage was that I had no work experience; I jumped from high school straight to university. I was worried at the time that companies were only looking for students with work experience.** 
