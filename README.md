@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/0cbe31b1-ca78-4d45-900e-e0f6874596bb)
 
-### Reflection – STAR Technique
+### Reflection
 - **S – Beginning of this course, I was completely lost on whether I made the right choice on my career path or not. I felt like I had no understanding of who I am or how I would fit into my career.** 
 - **T – My goal was to know if I belonged in my career choice, or if I had decided to become a software developer too quickly.** 
 - **A – I made it my objective to know myself, using that to define my career and develop my career plan.** 
@@ -49,7 +49,7 @@
 ![image](https://github.com/user-attachments/assets/fc3339fe-5e8a-4dc1-94b5-f1774c3fd011)
 
 
-### Reflection – STAR Technique
+### Reflection
 - **S – At the time, I felt like I never knew myself, I did not know the difference between my skills or interests.** 
 - **T – My goal was to list my skills and interests and find whether my skills and interests aligned with my career path. Asking the question, “How could I use my skills and interests to push myself forward in my career?”** 
 - **A – After doing the course, I found my values, and I used them to seek my skills and interests.** 
@@ -64,7 +64,7 @@
 ![image](https://github.com/user-attachments/assets/701e9ff4-a7db-45c9-829c-5d0eed539fcc)
 
 
-### Reflection – STAR Technique
+### Reflection
 - **S – My challenge was not being able to describe my personality or knowing if it really fitted in the career path I chose.** 
 - **T – The goal was to be able to describe my personality and discover my personality type.** 
 - **A – Completing the course and the short activities helped me discover my personality and how it expanded the possibilities of careers that my personality would fit in.** 
@@ -79,7 +79,7 @@
 ![image](https://github.com/user-attachments/assets/62dd738c-4f8e-4724-8ae2-baf013d2c12a)
 
 
-### Reflection – STAR Technique
+### Reflection
 - **S – My knowledge of creating a CV was very limited; I had never created a CV before, so I had no idea where to start or what to include.** 
 - **T – Complete the course and research to create a professional CV that represents me as my goal, and is acceptable to many companies.** 
 - **A – Completing the course and doing my research on the creation of a CV. I understood the importance of a CV as my first step, not securing a job, and I am determined to do so.** 
@@ -93,7 +93,7 @@
 
 ![image](https://github.com/user-attachments/assets/b3770a44-3311-4a96-96e6-df4fe9c4713d)
 
-### Reflection – STAR Technique
+### Reflection
 - **S – I was on a blank CV, and the challenge was having to gather all the information. The part that I knew put me at a bit of a disadvantage was that I had no work experience; I jumped from high school straight to university. I was worried at the time that companies were only looking for students with work experience.** 
 - **T – My goal was to have a CV that represented me and was informative, ensuring it just shows the necessary details of my academic project experience** 
 - **A – I researched effective templates and what formats worked best for a CV. Finding a few, I started the creation of my CV and added the important details about myself** 
