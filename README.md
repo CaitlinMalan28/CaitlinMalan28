@@ -93,6 +93,10 @@
 
 ![image](https://github.com/user-attachments/assets/6543ac82-fa98-4aeb-9366-e6dc57ddf22c)
 
+#### 📄 My CV
+[View My CV](https://github.com/CaitlinMalan28/Caitlin_Malan_CV) | [Download CV](https://github.com/CaitlinMalan28/Caitlin_Malan_CV/raw/main/Caitlin_Malan_CV.pdf)
+
+
 ### Reflection
 - **S – I was on a blank CV, and the challenge was having to gather all the information. The part that I knew put me at a bit of a disadvantage was that I had no work experience; I jumped from high school straight to university. I was worried at the time that companies were only looking for students with work experience.** 
 - **T – My goal was to have a CV that represented me and was informative, ensuring it just shows the necessary details of my academic project experience** 
