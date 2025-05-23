@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Caitlin
+#Digital Portfolio
+
+## Hi there 👋 I'm Caitlin
 
 - 🧠 Third-year ICT Application Dev student at CPUT  
 - 💻 Always ready to learn
