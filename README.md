@@ -1,4 +1,4 @@
-#Digital Portfolio
+# Digital Portfolio
 ---
 ## Hi there 👋 I'm Caitlin
 
