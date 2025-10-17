@@ -137,7 +137,8 @@
 ## Mock Interview
 
 ### Evidence
-![Mock Interview Evidence](https://github.com/user-attachments/assets/example-mock-interview)
+[Watch Full Mock Interview: ](https://drive.google.com/file/d/1a8U27pF5FGDfg6mA9H8YTQHRuJhYlgug/view?usp=sharing)
+
 
 ### Reflection
 - **S –** The idea of a live mock interview felt intimidating — I worried about performance under pressure and how to translate rehearsed answers into authentic conversation. I also lacked feedback on non-verbal cues.  
