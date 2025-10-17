@@ -114,10 +114,10 @@
 <img width="1608" height="667" alt="BS" src="https://github.com/user-attachments/assets/d0c24647-f762-463c-9211-7abfe5554ebe" />
 
 ### Reflection
-- **S –** At the start of the module I often used casual or ambiguous language in professional messages. Emails and meeting contributions sometimes came across as unstructured, and I didn’t always tailor tone to the audience. This created confusion and lowered the perceived professionalism of my communication. I personal had no idea how to start a email when it came to greetings or how to use honorific appropriately
-- **T –** My goal was to learn to choose an appropriate tone (formal vs informal), write concise professional emails, and present information clearly in virtual and face-to-face settings. I wanted to communicate with authority without sounding robotic.  
-- **A –** I completed the *Business Communication* lessons from the Work Readiness module. I studied email structure (subject line → greeting → body → closing), practiced converting informal messages into formal versions, and followed style guidelines: correct grammar, no slang, appropriate sign-offs, and succinct subject lines. I also rehearsed speaking points for meetings and practiced neutral, professional language for difficult messages (e.g., delivering constructive feedback).  
-- **R –** I now write emails that are concise, correctly formatted, and tailored to the recipient. In group work and presentations I use clearer phrasing and proper structure, which reduced misunderstandings and led to smoother collaboration. My improved communication increased the clarity of task assignments and strengthened my professional presence.
+- **S – At the start of the module I often used casual or ambiguous language in professional messages. Emails and meeting contributions sometimes came across as unstructured, and I didn’t always tailor tone to the audience. This created confusion and lowered the perceived professionalism of my communication. I personal had no idea how to start a email when it came to greetings or how to use honorific appropriately**
+- **T – My goal was to learn to choose an appropriate tone (formal vs informal), write concise professional emails, and present information clearly in virtual and face-to-face settings. I wanted to communicate with authority without sounding robotic.**
+- **A – I completed the *Business Communication* lessons from the Work Readiness module. I studied email structure (subject line → greeting → body → closing), practiced converting informal messages into formal versions, and followed style guidelines: correct grammar, no slang, appropriate sign-offs, and succinct subject lines. I also rehearsed speaking points for meetings and practiced neutral, professional language for difficult messages (e.g., delivering constructive feedback).** 
+- **R – I now write emails that are concise, correctly formatted, and tailored to the recipient. In group work and presentations I use clearer phrasing and proper structure, which reduced misunderstandings and led to smoother collaboration. My improved communication increased the clarity of task assignments and strengthened my professional presence.**
 
 ---
 
@@ -127,10 +127,10 @@
 <img width="1606" height="668" alt="IS" src="https://github.com/user-attachments/assets/0d25e4ae-cc4f-4923-bdc5-2592fafa4d34" />
 
 ### Reflection
-- **S –** Interviews used to trigger anxiety — I knew my technical stuff but struggled to frame examples, especially behaviour-based answers. I frequently rambled or missed the outcome part, so my answers lacked impact.  
-- **T –** My objective was to learn how to prepare for interviews effectively: craft concise examples using the STAR (Situation, Task, Action, Result) technique, refine my introduction, and practise professional appearance and tone.  
-- **A –** I followed the Interview Skills lessons: identified common technical and behavioural questions, wrote STAR responses for my top 8 scenarios (team conflict, deadline pressure, technical challenge, leadership), and rehearsed them aloud. I also practiced a 60-second elevator pitch summarising my skills and projects, and I recorded mock answers to self-review for pacing and clarity.  
-- **R –** I now deliver structured, outcome-focused responses that highlight measurable results. My confidence has improved; I handle behavioural questions with minimal filler and stronger emphasis on impact. Interviewers get a clear sense of my problem-solving approach and contribution.
+- **S – Interviews used to trigger anxiety — I knew my technical stuff but struggled to frame examples, especially behaviour-based answers. I frequently rambled or missed the outcome part, so my answers lacked impact.**  
+- **T – My objective was to learn how to prepare for interviews effectively: craft concise examples using the STAR (Situation, Task, Action, Result) technique, refine my introduction, and practise professional appearance and tone.**
+- **A – I followed the Interview Skills lessons: identified common technical and behavioural questions, wrote STAR responses for my top 8 scenarios (team conflict, deadline pressure, technical challenge, leadership), and rehearsed them aloud. I also practiced a 60-second elevator pitch summarising my skills and projects, and I recorded mock answers to self-review for pacing and clarity.** 
+- **R – I now deliver structured, outcome-focused responses that highlight measurable results. My confidence has improved; I handle behavioural questions with minimal filler and stronger emphasis on impact. Interviewers get a clear sense of my problem-solving approach and contribution.**
 
 ---
 
@@ -142,10 +142,10 @@ or...
 [Download from Github](https://github.com/CaitlinMalan28/Mock_Interview/raw/refs/heads/master/Caitlin_Malan_Mock_Interview.mp4)
 
 ### Reflection
-- **S –** The idea of a live mock interview felt intimidating, I worried about performance under pressure and how to translate rehearsed answers into authentic conversation. I also lacked feedback on non-verbal cues.  
-- **T –** My goal was to simulate a real interview environment to evaluate my communication, body language, and ability to answer technical and behavioural questions under time pressure. I wanted actionable feedback.  
-- **A –** I participated in a timed mock interview that included behavioural and technical rounds. I focused on posture, eye contact, calm breathing, and concise STAR answers. After the session, I collected feedback from the interviewer on clarity, relevance of examples, and tone. I iterated on my answers and practiced follow-up questions to sound more conversational.  
-- **R –** The mock interview reduced my anxiety and exposed subtle habits (e.g., filler words, rushed conclusions). With feedback, I refined my STAR examples to include clearer metrics and lessons learned. My overall interview presence is more balanced, prepared but natural, and I can pivot from technical detail to high-level impact when needed.
+- **S – The idea of a live mock interview felt intimidating, I worried about performance under pressure and how to translate rehearsed answers into authentic conversation. I also lacked feedback on non-verbal cues.**  
+- **T – My goal was to simulate a real interview environment to evaluate my communication, body language, and ability to answer technical and behavioural questions under time pressure. I wanted actionable feedback.**  
+- **A – I participated in a timed mock interview that included behavioural and technical rounds. I focused on posture, eye contact, calm breathing, and concise STAR answers. After the session, I collected feedback from the interviewer on clarity, relevance of examples, and tone. I iterated on my answers and practiced follow-up questions to sound more conversational.**
+- **R – The mock interview reduced my anxiety and exposed subtle habits (e.g., filler words, rushed conclusions). With feedback, I refined my STAR examples to include clearer metrics and lessons learned. My overall interview presence is more balanced, prepared but natural, and I can pivot from technical detail to high-level impact when needed.**
 
 ---
 
@@ -155,10 +155,10 @@ or...
 <img width="1607" height="702" alt="PS" src="https://github.com/user-attachments/assets/d41aa5ff-7733-46d6-b1f8-9a2f39507ddb" />
 
 ### Reflection
-- **S –** I had minimal networking experience and no consistent professional brand online. I wasn’t sure how to approach industry professionals or present projects credibly on platforms like LinkedIn.  
-- **T –** My goal was to build a professional online presence, learn how to reach out to contacts, and understand networking etiquette (personalised messages, follow-ups, value first connections).  
-- **A –** I completed the Professional Networking lessons, created/updated my LinkedIn profile to include project highlights and clear role descriptions, and wrote a personalised connection message template. I joined relevant groups, followed industry leaders, and engaged with content (comments + shares) weekly to demonstrate thoughtful interest. I also practised informational interview scripts to request short chats with professionals.  
-- **R –** I now have a LinkedIn profile that reflects my technical skills and projects. I’ve connected with peers and a few industry contacts, and I understand how to nurture relationships through targeted, value-based outreach. Networking now feels like a strategic growth channel rather than a chore.
+- **S – I had minimal networking experience and no consistent professional brand online. I wasn’t sure how to approach industry professionals or present projects credibly on platforms like LinkedIn.**  
+- **T – My goal was to build a professional online presence, learn how to reach out to contacts, and understand networking etiquette (personalised messages, follow-ups, value first connections).**  
+- **A – I completed the Professional Networking lessons, created/updated my LinkedIn profile to include project highlights and clear role descriptions, and wrote a personalised connection message template. I joined relevant groups, followed industry leaders, and engaged with content (comments + shares) weekly to demonstrate thoughtful interest. I also practised informational interview scripts to request short chats with professionals.** 
+- **R – I now have a LinkedIn profile that reflects my technical skills and projects. I’ve connected with peers and a few industry contacts, and I understand how to nurture relationships through targeted, value-based outreach. Networking now feels like a strategic growth channel rather than a chore.**
 
 ---
 
@@ -168,9 +168,9 @@ or...
 <img width="1607" height="658" alt="WE" src="https://github.com/user-attachments/assets/9401e224-44ee-41c0-89ea-b4a7b07a1b17" />
 
 ### Reflection
-- **S –** Entering the workplace with no prior experience made it unclear which behaviours were expected in professional contexts, from punctuality to corporate communication norms. I wanted to avoid awkward first impressions.  
-- **T –** My objective was to understand workplace expectations: appropriate dress/appearance, punctuality, respectful communication, confidentiality, contribution to team culture, and conflict resolution techniques.  
-- **A –** I studied the Workplace Etiquette lessons, participated actively in group projects to practice professional behaviour, and requested feedback from teammates about communication style and reliability. I also prepared a short personal checklist for professional conduct (e.g., meeting prep, read-before-meeting, timely responses, documenting decisions via email).  
-- **R –** I now consistently meet workplace expectations: I arrive prepared and on time, communicate respectfully and clearly, maintain confidentiality where required, and proactively document agreed actions. These behaviours improved team trust and made collaborative work more efficient.
+- **S – Entering the workplace with no prior experience made it unclear which behaviours were expected in professional contexts, from punctuality to corporate communication norms. I wanted to avoid awkward first impressions.**  
+- **T – My objective was to understand workplace expectations: appropriate dress/appearance, punctuality, respectful communication, confidentiality, contribution to team culture, and conflict resolution techniques.**
+- **A – I studied the Workplace Etiquette lessons, participated actively in group projects to practice professional behaviour, and requested feedback from teammates about communication style and reliability. I also prepared a short personal checklist for professional conduct (e.g., meeting prep, read-before-meeting, timely responses, documenting decisions via email).**  
+- **R – I now consistently meet workplace expectations: I arrive prepared and on time, communicate respectfully and clearly, maintain confidentiality where required, and proactively document agreed actions. These behaviours improved team trust and made collaborative work more efficient.**
 
 ---
