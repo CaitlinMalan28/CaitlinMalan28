@@ -32,7 +32,7 @@
 
 ---
 
-## Business Communication
+## Career Counselling
 
 ### Evidence
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Interview Skills
+## Skills and Interests
 
 ### Evidence
 
@@ -61,7 +61,7 @@
 
 ---
 
-## Mock Interview
+## Personality Assessment
 
 ### Evidence
 
@@ -76,7 +76,7 @@
 
 ---
 
-## Professional Networking
+## Create a CV
 
 ### Evidence
 
@@ -91,7 +91,7 @@
 
 ---
 
-## Workplace Etiquette
+## CV Submission
 
 ### Evidence
 
