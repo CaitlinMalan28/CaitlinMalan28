@@ -111,7 +111,7 @@
 ## Business Communication
 
 ### Evidence
-![Business Communication Evidence](https://github.com/user-attachments/assets/example-business-communication)
+<img width="1608" height="667" alt="BS" src="https://github.com/user-attachments/assets/d0c24647-f762-463c-9211-7abfe5554ebe" />
 
 ### Reflection
 - **S –** At the start of the module I often used casual or ambiguous language in professional messages. Emails and meeting contributions sometimes came across as unstructured, and I didn’t always tailor tone to the audience. This created confusion and lowered the perceived professionalism of my communication.  
@@ -124,7 +124,7 @@
 ## Interview Skills
 
 ### Evidence
-![Interview Skills Evidence](https://github.com/user-attachments/assets/example-interview-skills)
+<img width="1606" height="668" alt="IS" src="https://github.com/user-attachments/assets/0d25e4ae-cc4f-4923-bdc5-2592fafa4d34" />
 
 ### Reflection
 - **S –** Interviews used to trigger anxiety — I knew my technical stuff but struggled to frame examples, especially behaviour-based answers. I frequently rambled or missed the outcome part, so my answers lacked impact.  
@@ -150,7 +150,7 @@
 ## Professional Networking
 
 ### Evidence
-![Professional Networking Evidence](https://github.com/user-attachments/assets/example-networking)
+<img width="1607" height="702" alt="PS" src="https://github.com/user-attachments/assets/d41aa5ff-7733-46d6-b1f8-9a2f39507ddb" />
 
 ### Reflection
 - **S –** I had minimal networking experience and no consistent professional brand online. I wasn’t sure how to approach industry professionals or present projects credibly on platforms like LinkedIn.  
@@ -163,10 +163,7 @@
 ## Workplace Etiquette
 
 ### Evidence
-![Workplace Etiquette Evidence](https://github.com/user-attachments/assets/example-workplace-etiquette)
-
-#### 📄 My CV:
-[View My CV](https://github.com/CaitlinMalan28/Caitlin_Malan_CV)
+<img width="1607" height="658" alt="WE" src="https://github.com/user-attachments/assets/9401e224-44ee-41c0-89ea-b4a7b07a1b17" />
 
 ### Reflection
 - **S –** Entering the workplace with no prior experience made it unclear which behaviours were expected in professional contexts — from punctuality to corporate communication norms. I wanted to avoid awkward first impressions.  
