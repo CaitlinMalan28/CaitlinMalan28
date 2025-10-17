@@ -137,8 +137,9 @@
 ## Mock Interview
 
 ### Evidence
-[Watch Full Mock Interview: ](https://drive.google.com/file/d/1a8U27pF5FGDfg6mA9H8YTQHRuJhYlgug/view?usp=sharing)
-
+[Watch Full Mock Interview on Google Drive](https://drive.google.com/file/d/1a8U27pF5FGDfg6mA9H8YTQHRuJhYlgug/view?usp=sharing)
+or...
+[Download from Github](https://github.com/CaitlinMalan28/Mock_Interview/raw/refs/heads/master/Caitlin_Malan_Mock_Interview.mp4)
 
 ### Reflection
 - **S –** The idea of a live mock interview felt intimidating — I worried about performance under pressure and how to translate rehearsed answers into authentic conversation. I also lacked feedback on non-verbal cues.  
