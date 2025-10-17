@@ -17,6 +17,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge)
+
 
 ### 🛠️ Tools I Use:
 
@@ -30,7 +32,7 @@
 
 ---
 
-## Career Counselling
+## Business Communication
 
 ### Evidence
 
@@ -44,7 +46,7 @@
 
 ---
 
-## Skills and Interests
+## Interview Skills
 
 ### Evidence
 
@@ -59,7 +61,7 @@
 
 ---
 
-## Personality Assessment
+## Mock Interview
 
 ### Evidence
 
@@ -74,7 +76,7 @@
 
 ---
 
-## Create a CV
+## Professional Networking
 
 ### Evidence
 
@@ -89,7 +91,7 @@
 
 ---
 
-## CV Submission
+## Workplace Etiquette
 
 ### Evidence
 
