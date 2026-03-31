@@ -4,8 +4,7 @@
  
 - 💻 Always ready to learn
 - 🌱 Learning: QA Engineering and DevOps Engineering
-- 📫 Reach me: [Contact Me](mailto:230426271@mycput.ac.za)  
-
+- 
 ---
 
 ### ⚡ Tech Stack:
@@ -28,7 +27,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
----
-#### 📄 My CV:
-[View My CV](https://github.com/CaitlinMalan28/Caitlin_Malan_CV)
 
